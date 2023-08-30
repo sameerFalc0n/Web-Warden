@@ -1,14 +1,11 @@
-# T131-localhost
 
-Official Repository for DotSlash 5.0 Submission of Team 131: localhost.
-<br>
 [Watch Demo](https://www.youtube.com/watch?v=LrCEiNMNIKQ&t=2s)
 
 **Team Members:**
 
-    * Priyan Kishore
+    
     * Sreeram K L
-    * Aaryan Deshpande
+    * Sameer Al Mohmood
     * Surya Prasath
 
 ## Inspiration
@@ -52,7 +49,7 @@ The extension also substitutes random images of nature and art for explicit and 
 - We had always doubted our ability to carry out plans and turn concepts into workable prototypes. We learnt to work as a team and discuss the steps necessary to finish the task, and we were able to do it more quickly than we anticipated.
 - This is our first extension, so we've learnt a lot about extensions and the Chrome development environment.
 
-## What's next for Web Warden | T131: localhost
+## What's next for Web Warden
 
 - Have additional features such as timer that can be set, which stops the browser when the timer runs out.
 - Some bugs has to be handled.
